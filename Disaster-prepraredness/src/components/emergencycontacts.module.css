@@ -1,0 +1,84 @@
+.page {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f8fbff;
+  color: #333;
+  padding-bottom: 40px;
+}
+
+.header {
+  background: #004d99;
+  color: #fff;
+  text-align: center;
+  padding: 50px 20px;
+}
+.header h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+.header p {
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+.contactSection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+  justify-content: center;
+}
+
+.contactCard {
+  background: #e6f0ff;
+  border-radius: 12px;
+  padding: 20px;
+  flex: 0 0 calc(33.333% - 20px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+.contactCard:hover {
+  transform: translateY(-5px);
+}
+.contactCard h3 {
+  color: #004d99;
+  margin-bottom: 8px;
+}
+.contactCard p {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.callBtn {
+  display: inline-block;
+  padding: 10px 18px;
+  background: #004d99;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+.callBtn:hover {
+  background: #003366;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 0.95rem;
+  color: #555;
+}
+.footer p {
+  background: #ffcc00;
+  padding: 10px;
+  border-radius: 6px;
+  display: inline-block;
+}
+@media (max-width: 768px) {
+  .contactCard {
+    flex: 0 0 100%;
+  }
+}

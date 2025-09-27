@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "Storm",
+    "message": "Severe storm warning issued",
+    "level": "danger"
+  },
+  {
+    "id": 2,
+    "type": "Heatwave",
+    "message": "High temperature alert",
+    "level": "warning"
+  },
+  {
+    "id": 3,
+    "type": "Flood",
+    "message": "River water levels rising, stay alert",
+    "level": "danger"
+  }
+]

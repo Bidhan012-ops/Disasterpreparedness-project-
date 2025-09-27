@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Earthquake Safety Checklist",
+    "link": "/pdfs/earthquake-safety.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Fire Emergency Procedures",
+    "link": "/pdfs/fire-procedure.pdf"
+  },
+  {
+    "id": 3,
+    "title": "Flood Preparedness Guide",
+    "link": "/pdfs/flood-preparedness.pdf"
+  }
+]

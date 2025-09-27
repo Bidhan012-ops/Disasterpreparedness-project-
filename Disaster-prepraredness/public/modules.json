@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Earthquake Safety",
+    "description": "Steps to stay safe during earthquakes.",
+    "video": "https://www.youtube.com/watch?v=earthquake-safety"
+  },
+  {
+    "id": 2,
+    "title": "Fire Safety",
+    "description": "How to prevent and react to fire incidents.",
+    "video": "https://www.youtube.com/watch?v=fire-safety"
+  },
+  {
+    "id": 3,
+    "title": "Flood Preparedness",
+    "description": "Precautions to take before and after floods.",
+    "video": "https://youtu.be/HaEmIakO7f4?si=Cm_hge8InZGeGCud"
+  },
+  {
+    "id": 4,
+    "title": "Cyclone Safety",
+    "description": "Protective measures during cyclones.",
+    "video": "https://www.youtube.com/watch?v=cyclone-safety"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "name": "Bidhan Bera",
+    "email": "bidhan@example.com",
+    "role": "Student"
+  },
+  "preferences": {
+    "theme": "light",
+    "notifications": true,
+    "language": "English"
+  }
+}

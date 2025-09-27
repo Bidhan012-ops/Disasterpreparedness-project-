@@ -1,0 +1,9 @@
+{
+  "instructions": [
+    "Stay calm and alert.",
+    "Move towards the nearest safe exit.",
+    "Do not use elevators during fire/earthquake.",
+    "Head to the designated assembly point."
+  ],
+  "map": "/images/evacuation-map.png"
+}
